@@ -1,0 +1,29 @@
+html{
+    background-image: url(https://media.istockphoto.com/id/1343867675/vector/two-dogs-sit-next-to-a-donation-jar-support-for-a-dog-shelter-homeless-animals-volunteering.jpg?s=612x612&w=0&k=20&c=oap5ZPrOrECxrvFw5elMxUWtd0T07JU_-WK2zJgpoKY=);
+    background-repeat: repeat;
+    background-size:30%
+}
+.Money{
+    text-align: center;
+    margin-top:15%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size:300% ;
+    color: orangered;
+    border-style: solid;
+    border-color:black;
+    border-width: 30%;
+    background-color: wheat;
+
+}
+h1{
+    font-style: italic;
+    color:#FF724C ;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.volunteer{
+    margin-top:0.5%;
+    background: wheat;
+    
+}
